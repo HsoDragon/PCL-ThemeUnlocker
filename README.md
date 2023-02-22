@@ -1,16 +1,13 @@
 # PCL Ref ThemeUnlock Minimal Demo
 
 # 注意
-## 此程序仅供学习使用，禁止用于任何非法用途, 请在下载后24小时内删除，否则与作者无关!
-
-
-快把这个Big Bug Fix了谢谢(
-能不能看看你这写的...  
-还有自己公开的解锁函数关我何事  
+### 此工具仅供学习使用，如果遇到任何法律问题于作者无关
+### 请于下载后24小时内删除，否则后果自负
+本工具理论支持未添加环境检测的任何旧版PCL2，请谨慎使用！
 
 ## 用法
 在同目录放PCL2命名为Plain Craft Launcher 2.exe  
 打开程序...  
   
   
-  Issue: https://github.com/Hex-Dragon/PCL2/issues/1128
+  Issue (Issue Deleted): https://github.com/Hex-Dragon/PCL2/issues/1128
