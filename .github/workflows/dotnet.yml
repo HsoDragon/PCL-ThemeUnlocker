@@ -32,4 +32,4 @@ jobs:
       name: Upload
       with:
         name: unlocker.exe
-        path: .\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe
+        path: D:\a\PCL-ThemeUnlocker\PCL-ThemeUnlocker\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe
