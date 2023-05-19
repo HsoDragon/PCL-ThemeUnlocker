@@ -29,7 +29,6 @@ jobs:
     - uses: actions/upload-artifact@v3
       name: Upload
       with:
-        name: PCL Ref ThemeUnlock [Test].exe
         path: D:\a\PCL-ThemeUnlocker\PCL-ThemeUnlocker\PCL Ref ThemeUnlock [Test]\bin\Debug\
     - name: Test
       run: dotnet test --no-build --verbosity normal
