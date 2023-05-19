@@ -30,6 +30,6 @@ jobs:
       name: Upload
       with:
         name: unlocker
-        path: ${{ github.workspace }}\PCL-ThemeUnlocker\PCL-ThemeUnlocker\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe
+        path: ${{ github.workspace }}\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe
     - name: Test
       run: dotnet test --no-build --verbosity normal
