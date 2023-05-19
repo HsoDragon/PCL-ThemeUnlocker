@@ -29,7 +29,7 @@ jobs:
     - uses: actions/upload-artifact@v3
       name: Upload
       with:
-        name: unlocker
+        name: unlocker.exe
         path: ${{ github.workspace }}\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe
     - name: Test
       run: dotnet test --no-build --verbosity normal
