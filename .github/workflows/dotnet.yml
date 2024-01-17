@@ -27,9 +27,9 @@ jobs:
     - name: Build
       run: dotnet build --no-restore -verbosity:diag
     - uses: actions/upload-artifact@v3
-      name: Upload
+      name: Upload artifacts
       with:
         name: unlocker
-        path: ${{ github.workspace }}\PCL Ref ThemeUnlock [Test]\obj\Debug\PCL Ref ThemeUnlock [Test].exe
+        path: '${{ github.workspace }}\PCL Ref ThemeUnlock [Test]\bin\Debug\PCL Ref ThemeUnlock [Test].exe'
     - name: Test
       run: dotnet test --no-build --verbosity normal
