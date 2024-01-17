@@ -1,12 +1,13 @@
 # PCL2 ThemeUnlocker
 ## 使用这个项目造成任何问题与作者无关
 反正我不用微软视窗了，就是说能用就用哈
+  
 new : unarchived  
 23/2/22: 鉴于据（龙猫）说PCL2
 最新版本已修复该BUG，所以现在我公开主题解锁工具并 Archive  
 
-欢迎 Not to 学习，以及Not to contribute  
-Not TODO: Build and release
+欢迎 not to 学习，以及 not to contribute  
+Not TODO: Build & release
 # 注意
 ### 此工具仅供学习使用，如果遇到任何法律问题于作者无关
 ### 请于下载后24小时内删除，否则后果自负
@@ -19,3 +20,8 @@ Not TODO: Build and release
   
   
   Original Issue (已被苏珊): https://github.com/Hex-Dragon/PCL2/issues/1128
+
+
+  
+<sup>
+微软视窗：指 Microsoft Windows, 是 Microsoft Corporation. 推出的以图形用户界面为主推出的一系列专有商业软体操作系统。</sup>
