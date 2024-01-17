@@ -1,5 +1,6 @@
 # PCL2 ThemeUnlocker
 ## 使用这个项目造成任何问题与作者无关
+反正我不用微软视窗了，就是说能用就用哈
 new : unarchived  
 23/2/22: 鉴于据（龙猫）说PCL2
 最新版本已修复该BUG，所以现在我公开主题解锁工具并 Archive  
